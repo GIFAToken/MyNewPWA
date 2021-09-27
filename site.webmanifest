@@ -1,0 +1,42 @@
+ {
+    "name": "Science Techniz",
+    "short_name": "Sci-Tech",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-bph1VzF70B0/YVIUCVA-sJI/AAAAAAAAYQc/khst6recZ7g1O5paBLCy9bro6gyQJ630wCLcBGAsYHQ/s0/apple-icon%2B192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-KgxaRjmeEQ4/YVIVB7BrvLI/AAAAAAAAYQk/ppVHDhPEjKY7Mg0r9_Eh8CDPJvxVb3LDgCLcBGAsYHQ/s0/apple-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+		  {
+            "src": "https://1.bp.blogspot.com/-na4YsIooVvA/YVIW4CFa6UI/AAAAAAAAYQs/7TmhpKqBogcFtgzJSaNV1iLqDUfYEz7tACLcBGAsYHQ/s16000/512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+		  {
+            "src": "https://1.bp.blogspot.com/-F0MPWX95EHM/YVIYDw8wWGI/AAAAAAAAYQ0/YBh0wdqBs2M6WK25KzioE6mabVdBxqssgCLcBGAsYHQ/s0/apple-icon-120x120.png",
+            "sizes": "120x120",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+		,
+		  {
+            "src": "https://1.bp.blogspot.com/-wtLaFdwqA8o/YVIY5zgZrxI/AAAAAAAAYQ8/EiNo1nET0xkfY_4D5hyxIeUKYlExt09VQCLcBGAsYHQ/s0/android-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#FFFF00",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.sciencetechniz.com"
+}
